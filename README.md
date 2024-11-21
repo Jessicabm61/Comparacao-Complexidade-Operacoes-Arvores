@@ -23,7 +23,7 @@ Ao analisar os dados de adição, observa-se que o **esforço computacional** (i
 - **B-árvores (B-1, B-5, B-10)**: Maior esforço computacional, com um crescimento de curva mais acentuado, especialmente para ordens maiores.
 
 ### Gráfico de Adição
-![Gráfico de Adição](csv/grafico_adicao.png)
+<img src="csv/grafico_adicao.png" alt="Gráfico de Adição" width="600"/>
 
 ## 2. Análise do Esforço Computacional na Operação de Remoção
 
@@ -46,7 +46,7 @@ Os resultados da operação de remoção seguem uma tendência semelhante à da 
 - **B-Árvores (B-1, B-5, B-10)**: Maior esforço computacional, com crescimento mais acentuado devido à complexidade do balanceamento.
 
 ### Gráfico de Remoção
-![Gráfico de Remoção](csv/grafico_remocao.png)
+<img src="csv/grafico_remocao.png" alt="Gráfico de Remoção" width="600"/>
 
 ## Conclusões Gerais:
 - A **Árvore Rubro-Negra** é a estrutura mais eficiente em termos de esforço computacional, tanto para adição quanto para remoção, com um crescimento suave à medida que o tamanho do conjunto de dados aumenta.
